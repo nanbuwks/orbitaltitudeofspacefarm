@@ -1,5 +1,3 @@
-# potted_seedling_to_aeroponics
+# 宇宙農場の軌道高度の選定
 
-
-https://qiita.com/nanbuwks/private/18932e80635e8cf305b3
-# -
+https://qiita.com/akbrobot/private/a20fe4feda53783ae4ff
